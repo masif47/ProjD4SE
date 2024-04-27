@@ -1,6 +1,8 @@
 # ProjD4SE
 Clustering and source code repository analysis
-<h1 align="left">Hey 👋 What's up Team?</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Hey D4SE Team!;" />
+</h1>
 
 ###
 
