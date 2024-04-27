@@ -48,13 +48,6 @@ Clustering and source code repository analysis
 
 ###
 
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/masif47/masif47/output/snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
